@@ -1,0 +1,8 @@
+Conclusions from pymaceuticals data
+
+	1. Infubinol, and Ceftamin are the two most successful drugs in reducing tumor size of the four selected. Ramicane and Capomulin are the worst.
+
+	2. The researchers seemed to do a good job collecting the data. There is a good split between male and female,
+ only two drugs are one mouse short, there was only one dublicate, and there was only one outlier.
+
+	3. Ramicane and Capomulin were used on smaller overall tumor sizes, and may have been more relevant in a study specific to smaller tumors.
